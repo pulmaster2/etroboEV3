@@ -12,9 +12,8 @@ ET ロボコンで使用する二種類の走行体（EV3way-ET）の、各プ�
   - EV3way_MonoBrick_sample.zip
     MonoBrick EV3 Firmware 用。 (C#)
 
-  - EV3way_EV3RT_sample_2018model
-    TOPPERS/EV3RT 用。 (C++)
-
+  - EV3way_EV3RT_sample_2018model.tgz
+    2018年デカタイヤ走行体 TOPPERS/EV3RT 用 (C++)
 
 使用許諾（ライセンス）
 BSD ライク、ないし、各プラットフォームのライセンスに従います。
